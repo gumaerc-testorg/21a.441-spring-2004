@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-441-the-conquest-of-america-spring-2004/597d5feb0a74b7319c431bfabe95a998_punishments.pdf
+file: /media/courses/21a-441-the-conquest-of-america-spring-2004/597d5feb0a74b7319c431bfabe95a998_punishments.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: punishments.pdf
 uid: 597d5feb-0a74-b731-9c43-1bfabe95a998

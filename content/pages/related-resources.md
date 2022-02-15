@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: df951afa-7d7c-e47c-01b4-31571cb5cbae
 ---
@@ -26,8 +28,8 @@ Indigenist and Indigenous Organizations
 
 [Virtual Library: American Indians](http://www.hanksville.org/NAresources/)
 
-People's Missionized by the 17th Century Jesuits
-------------------------------------------------
+People's Missionized by the 17{{< sup "th" >}} Century Jesuits
+--------------------------------------------------------------
 
 [Algonkian](http://www.rootsweb.com/~cansk/Saskatchewan/ethnic/algonkian.html)
 
