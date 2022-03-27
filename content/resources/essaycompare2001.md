@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b9275f70-2b24-4ccd-1e7e-be75d658eb8d
 resourcetype: Document
 title: essaycompare2001.pdf
 uid: e0d1830e-85d8-ade3-73e5-458c5f59fdbf

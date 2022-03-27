@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d351c30b-77ea-cda6-f5c2-a0b747974938
 resourcetype: Document
 title: jefatura0001.pdf
 uid: 275d9077-de18-e2a5-ffdf-4f60a1cb87b7

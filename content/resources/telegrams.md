@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 0df92479-6a60-982b-fc64-c537f93c85db
 resourcetype: Document
 title: telegrams.pdf
 uid: 676ac6c2-9ef2-312f-a521-bb4ff5faa9d8

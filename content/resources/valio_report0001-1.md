@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d351c30b-77ea-cda6-f5c2-a0b747974938
 resourcetype: Document
 title: valio_report0001.pdf
 uid: c05818d2-069d-8452-314c-3943b487eb56

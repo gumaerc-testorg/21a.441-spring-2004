@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b9275f70-2b24-4ccd-1e7e-be75d658eb8d
 resourcetype: Document
 title: kunaassignment.pdf
 uid: 3422ea66-b907-d1ee-df77-8343b29f1e68

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d351c30b-77ea-cda6-f5c2-a0b747974938
 resourcetype: Document
 title: cronontaylorquest.pdf
 uid: b78c47b6-b7e5-f9f8-c48c-bc926421ec46

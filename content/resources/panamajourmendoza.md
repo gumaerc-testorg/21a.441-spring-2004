@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d351c30b-77ea-cda6-f5c2-a0b747974938
 resourcetype: Document
 title: panamajourmendoza.pdf
 uid: 3d84ae81-6abe-8f16-791e-0168e468a79e

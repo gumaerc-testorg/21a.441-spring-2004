@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d351c30b-77ea-cda6-f5c2-a0b747974938
 resourcetype: Document
 title: nargana.pdf
 uid: ab410404-d76b-8187-09c5-34d75d07f129

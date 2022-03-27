@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b9275f70-2b24-4ccd-1e7e-be75d658eb8d
 resourcetype: Document
 title: colombianexchass.pdf
 uid: ac236488-a46f-c651-0aa4-096914206a98

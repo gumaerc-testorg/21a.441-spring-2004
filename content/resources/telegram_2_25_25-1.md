@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d351c30b-77ea-cda6-f5c2-a0b747974938
 resourcetype: Document
 title: telegram_2_25_25.pdf
 uid: c0742d0b-6c93-159b-d1d7-e8cc7cdeb5f6

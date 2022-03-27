@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b9275f70-2b24-4ccd-1e7e-be75d658eb8d
 resourcetype: Document
 title: lascasasrewrite.pdf
 uid: c8f813fd-8cc1-f92d-8d01-b395a73ec909

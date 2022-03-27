@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b9275f70-2b24-4ccd-1e7e-be75d658eb8d
 resourcetype: Document
 title: jesuitrelpaper3.pdf
 uid: f33eddf6-7b02-ffdd-b5fc-1363c65dcab8

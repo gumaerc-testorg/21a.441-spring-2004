@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 0df92479-6a60-982b-fc64-c537f93c85db
 resourcetype: Document
 title: starherald1925_1.pdf
 uid: cc9531a8-d498-b51a-95ac-c428d8fb811a
