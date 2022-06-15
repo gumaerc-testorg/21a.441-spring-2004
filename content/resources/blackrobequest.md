@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21a-441-the-conquest-of-america-spring-2004/89c94ae4069caf5d7d6e81f3055f8bfc_blackrobequest.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/89c94ae4069caf5d7d6e81f3055f8bfc_blackrobequest.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

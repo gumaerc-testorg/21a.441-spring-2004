@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21a-441-the-conquest-of-america-spring-2004/ac236488a46fc6510aa4096914206a98_colombianexchass.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/ac236488a46fc6510aa4096914206a98_colombianexchass.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

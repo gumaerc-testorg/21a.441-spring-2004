@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21a-441-the-conquest-of-america-spring-2004/2d1617954e91a2ec419821e0461a8a94_seconddetach.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/2d1617954e91a2ec419821e0461a8a94_seconddetach.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

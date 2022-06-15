@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21a-441-the-conquest-of-america-spring-2004/676ac6c29ef2312fa521bb4ff5faa9d8_telegrams.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/676ac6c29ef2312fa521bb4ff5faa9d8_telegrams.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

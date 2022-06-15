@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21a-441-the-conquest-of-america-spring-2004/ab410404d76b818709c534d75d07f129_nargana.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/ab410404d76b818709c534d75d07f129_nargana.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
