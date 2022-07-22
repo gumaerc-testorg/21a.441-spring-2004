@@ -5,6 +5,7 @@ file: /courses/21a-441-the-conquest-of-america-spring-2004/5f60ea97349ef7c1034fc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

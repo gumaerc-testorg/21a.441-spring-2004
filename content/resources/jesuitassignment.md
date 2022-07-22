@@ -5,6 +5,7 @@ file: /courses/21a-441-the-conquest-of-america-spring-2004/91675a6377c9c55fe357d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jesuitassignment.pdf
 uid: 91675a63-77c9-c55f-e357-dcb92599ba6c
 ---
 This file contains assignments.
-

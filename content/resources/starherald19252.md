@@ -4,6 +4,7 @@ description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/24e3562594889b650cf72977ff98a958_starherald19252.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
