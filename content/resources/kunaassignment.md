@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/3422ea66b907d1eedf778343b29f1e68_kunaassignment.pdf
+file_size: 76173
 file_type: application/pdf
 learning_resource_types:
 - Assignments
