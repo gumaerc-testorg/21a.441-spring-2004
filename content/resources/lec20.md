@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/5f60ea97349ef7c1034fc3ccf57377a6_lec20.pdf
+file_size: 18321
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
