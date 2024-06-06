@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/04d32eb79ad2309b9bfd86ae100e0f7c_rowlandsonquest.pdf
+file_size: 14663
 file_type: application/pdf
 learning_resource_types:
 - Readings

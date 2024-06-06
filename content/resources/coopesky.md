@@ -2,6 +2,7 @@
 content_type: resource
 description: Excerpt from Anna Coope, "Sky Pilot of San Blas Indians"
 file: /courses/21a-441-the-conquest-of-america-spring-2004/5bedb61aead07498260eabca80b2fa83_coopesky.pdf
+file_size: 2846833
 file_type: application/pdf
 learning_resource_types:
 - Readings
