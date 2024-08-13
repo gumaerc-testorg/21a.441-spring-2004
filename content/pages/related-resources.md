@@ -2,14 +2,13 @@
 content_type: page
 description: This section contains links to resources on the internet relevant to
   the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: df951afa-7d7c-e47c-01b4-31571cb5cbae
 ---
-
-Kuna-related
-------------
+## Kuna-related
 
 [la entidad académica y técnica del Congreso General de la Cultura Kuna](http://onmaked.nativeweb.org/) 
 
@@ -19,8 +18,7 @@ Kuna-related
 
 [National Museum of the American Indian](http://www.nmai.si.edu/)
 
-Indigenist and Indigenous Organizations
----------------------------------------
+## Indigenist and Indigenous Organizations
 
 [Cultural Survival](http://www.cs.org/)
 
@@ -30,8 +28,7 @@ Indigenist and Indigenous Organizations
 
 [Virtual Library: American Indians](http://www.hanksville.org/NAresources/)
 
-People's Missionized by the 17{{< sup "th" >}} Century Jesuits
---------------------------------------------------------------
+## People's Missionized by the 17{{< sup "th" >}} Century Jesuits
 
 [Algonkian](http://www.rootsweb.com/~cansk/Saskatchewan/ethnic/algonkian.html)
 
@@ -41,8 +38,7 @@ People's Missionized by the 17{{< sup "th" >}} Century Jesuits
 
 [Wyandotte of Oklahoma](http://www.city-data.com/city/Wyandotte-Oklahoma.html)
 
-Six Nations of Iroquois (Haudenosaunee)
----------------------------------------
+## Six Nations of Iroquois (Haudenosaunee)
 
 [Six Nations](http://www.sixnations.org/)
 
@@ -58,16 +54,14 @@ Six Nations of Iroquois (Haudenosaunee)
 
 [Tuscarora](http://www.tuscaroras.com/)
 
-Native Peoples of New England
------------------------------
+## Native Peoples of New England
 
 [Seacoke Wampanoag](http://kalel1461.tripod.com/)
 
-[Wampanoag of Gay Head](https://www.wampanoagtribe.org/)
+[Wampanoag of Gay Head](https://wampanoagtribe-nsn.gov/)
 
-Cherokee
---------
+## Cherokee
 
 [Cherokee of Oklahoma](http://www.cherokee.org/)
 
-[Cherokee eastern band](http://www.cherokee-nc.com/)
+[Cherokee eastern band](https://visitcherokeenc.com/about-us/)
