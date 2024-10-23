@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-441-the-conquest-of-america-spring-2004/cc9531a8d498b51a95acc428d8fb811a_starherald1925_1.pdf
+file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/cc9531a8d498b51a95acc428d8fb811a_starherald1925_1.pdf
 file_size: 529730
 file_type: application/pdf
 learning_resource_types: []
