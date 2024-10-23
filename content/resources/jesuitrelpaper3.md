@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains assignments.
-file: /courses/21a-441-the-conquest-of-america-spring-2004/f33eddf67b02ffddb5fc1363c65dcab8_jesuitrelpaper3.pdf
+file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/f33eddf67b02ffddb5fc1363c65dcab8_jesuitrelpaper3.pdf
 file_size: 20833
 file_type: application/pdf
 learning_resource_types:

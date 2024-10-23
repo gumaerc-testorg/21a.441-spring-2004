@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-441-the-conquest-of-america-spring-2004/40cbcb357fabbe73a7186b236e46a657_markhamaccount.pdf
+file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/40cbcb357fabbe73a7186b236e46a657_markhamaccount.pdf
 file_size: 1630215
 file_type: application/pdf
 learning_resource_types:
