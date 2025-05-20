@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/59f34cb972c15c6eea3f200d44372e37_policemannarrative.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/59f34cb972c15c6eea3f200d44372e37_policemannarrative.pdf
 file_size: 270541
 file_type: application/pdf
 learning_resource_types:

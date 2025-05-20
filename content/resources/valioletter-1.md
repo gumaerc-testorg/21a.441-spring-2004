@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/cd50f473dfa078b093022d7ca646223b_valioletter.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/cd50f473dfa078b093022d7ca646223b_valioletter.pdf
 file_size: 1246374
 file_type: application/pdf
 learning_resource_types:

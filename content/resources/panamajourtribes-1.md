@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/fd5cc2b3de0a9d7791167522577760b2_panamajourtribes.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/fd5cc2b3de0a9d7791167522577760b2_panamajourtribes.pdf
 file_size: 820767
 file_type: application/pdf
 learning_resource_types:
