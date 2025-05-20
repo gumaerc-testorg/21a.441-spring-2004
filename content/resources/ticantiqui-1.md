@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/b4bd9391133dc1b19a21ff30b6181b0c_ticantiqui.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/b4bd9391133dc1b19a21ff30b6181b0c_ticantiqui.pdf
 file_size: 308676
 file_type: application/pdf
 learning_resource_types:
