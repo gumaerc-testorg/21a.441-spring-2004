@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exported products during the first half of 1920.
-file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/fda1d6b5805b6247093df1906ce9c588_exportados0001.pdf
+file: /courses/21a-441-the-conquest-of-america-spring-2004/fda1d6b5805b6247093df1906ce9c588_exportados0001.pdf
 file_size: 397130
 file_type: application/pdf
 learning_resource_types:
