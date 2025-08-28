@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Star and Herald 1925:'
-file: /courses/21a-441-the-conquest-of-america-spring-2004/5c8a73279fcadd77695c996f0c38f0ec_starherald1925_1.pdf
+file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/5c8a73279fcadd77695c996f0c38f0ec_starherald1925_1.pdf
 file_size: 541199
 file_type: application/pdf
 learning_resource_types:
