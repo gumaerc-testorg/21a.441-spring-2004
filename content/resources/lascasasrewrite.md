@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-441-the-conquest-of-america-spring-2004/c8f813fd8cc1f92d8d01b395a73ec909_lascasasrewrite.pdf
+file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/c8f813fd8cc1f92d8d01b395a73ec909_lascasasrewrite.pdf
 file_size: 59711
 file_type: application/pdf
 learning_resource_types:
