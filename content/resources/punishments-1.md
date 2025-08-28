@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-441-the-conquest-of-america-spring-2004/8d9da89f42241a9b7966552abb30aba8_punishments.pdf
+file: /ol-ocw-studio-app/courses/21a-441-the-conquest-of-america-spring-2004/8d9da89f42241a9b7966552abb30aba8_punishments.pdf
 file_size: 395297
 file_type: application/pdf
 learning_resource_types:
